@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Case Conversion",
+		"Comment-Snippets",
+		"Comments Aware Enter",
+		"DocBlockr",
+		"EditorConfig",
+		"EJS",
+		"GitGutter-Edge",
+		"GitHub Flavored Markdown Preview",
+		"Handlebars",
+		"INI",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"URLEncode"
+	]
+}

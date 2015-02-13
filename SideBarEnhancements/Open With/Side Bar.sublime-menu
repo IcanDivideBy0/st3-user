@@ -1,0 +1,33 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			{
+				"caption": "Thunar",
+				"id": "side-bar-folders-open-with-thunar",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "thunar",
+					"extensions": ""
+				}
+			},
+
+			{
+				"caption": "Google Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "google-chrome",
+					"extensions": ".*" //any file with extension
+				}
+			}
+
+			// {"caption":"-"}
+		]
+	}
+]
