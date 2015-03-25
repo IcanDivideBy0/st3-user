@@ -7,14 +7,15 @@
 	"folder_exclude_patterns":
 	[
 		".sass-cache",
-		".git"
+		".git",
+		".coverage"
 	],
 	"font_size": 9,
 	"ignored_packages":
 	[
-		"Sass",
+		"Markdown",
 		"Vintage",
-		"Markdown"
+		"Sass"
 	],
 	"rulers":
 	[
