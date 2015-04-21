@@ -13,9 +13,9 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage",
-		"Sass"
+		"Sass",
+		"Markdown"
 	],
 	"rulers":
 	[
